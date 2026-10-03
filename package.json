@@ -16,7 +16,7 @@
     "eslint-plugin-prettier": "^5.4.0",
     "nitropack": "latest",
     "prettier": "^3.5.3",
-    "prisma": "^7.0.1",
+    "prisma": "^7.10.0",
     "rollup": "^4.59.0"
   },
   "dependencies": {
